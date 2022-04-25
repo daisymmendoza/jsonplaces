@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Phoenix Raceway",
+        "address": "7602 Jimmie Johnson Dr, Avondale, AZ 85323",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106542.60193342487!2d-112.35049385019543!3d33.43741631552198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b3c6d46dbe6d5%3A0xb1c01b8d7c1fdc3b!2sPhoenix%20Raceway!5e0!3m2!1sen!2sus!4v1647905073038!5m2!1sen!2sus",
+        "description": "Phoenix Raceway is a 1-mile, low-banked tri-oval race track located in Avondale, Arizona, near Phoenix. The motorsport track opened in 1964 and currently hosts two NASCAR race weekends annually. Phoenix Raceway has also hosted the CART, IndyCar Series, USAC and the WeatherTech SportsCar Championship.",
+        "image": "images/raceway.png",
+        "id": "1"
+    },
+
+    {
+        "name": "Friendship Park",
+        "address": "12325 W McDowell Rd, Avondale, AZ 85323",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106494.14431523027!2d-112.40155996453464!3d33.47686053404559!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b3f4830effab7%3A0xf038df10607923f3!2sFriendship%20Park!5e0!3m2!1sen!2sus!4v1647905207467!5m2!1sen!2sus",
+        "description": "This sports complex offers 10 multi-use fields, 2 little league fields & 1 softball diamond.",
+        "image": "images/park.jpeg",
+        "id": "2"
+    },
+
+    {
+        "name": "Sky Zone Trampoline Park",
+        "address": "9040 W Larkspur Dr Suite 134, Peoria, AZ 85381",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106340.18240295895!2d-112.30062307488615!3d33.60191312689635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b4213196ce021%3A0x146b114723b2da06!2sSky%20Zone%20Trampoline%20Park!5e0!3m2!1sen!2sus!4v1647905277649!5m2!1sen!2sus",
+        "description": "Chain of indoor trampoline parks featuring freestyle bouncing, dodgeball, fitness programs & more.",
+        "image": "images/sky zone.webp",
+        "id": "3"
+    },
+
+    {
+        "name": "Hurricane Harbor Phoenix",
+        "address": "4243 W Pinnacle Peak Rd, Glendale, AZ 85310",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106224.90057791384!2d-112.2180138378586!3d33.69528025294738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b660f654ed85b%3A0x4d9bd3ff8a019b7!2sHurricane%20Harbor%20Phoenix!5e0!3m2!1sen!2sus!4v1647905504429!5m2!1sen!2sus",
+        "description": "Six Flags Hurricane Harbor Phoenix is a water park located in Phoenix, Arizona. The park is situated on approximately 35 acres of land, making it the largest theme park in the state. It is located in North Phoenix at Adobe Dam Regional Park.",
+        "image": "images/hurricane harbor.jpeg",
+        "id": "4"
+    },
+
+    {
+        "name": "Musical Instrument Museum",
+        "address": "4725 E Mayo Blvd, Phoenix, AZ 85050",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106269.520451661!2d-112.04578992937651!3d33.65916957748671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b7118e6793a7d%3A0x33c150d27fb4d1fb!2sMusical%20Instrument%20Museum!5e0!3m2!1sen!2sus!4v1647905557785!5m2!1sen!2sus",
+        "description": "The Musical Instrument Museum is located in Phoenix, Arizona. Opened in April 2010, it is the largest museum of its type in the world. The collection of over 15,000 musical instruments and associated objects includes examples from nearly 200 countries and territories, representing every inhabited continent.",
+        "image": "images/music museum.webp",
+        "id": "5"
+    },
+
+    {
+        "name": "Arizona Capitol Museum",
+        "address": "1700 W Washington St, Phoenix, AZ 85007",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26632.371058986533!2d-112.11032530621605!3d33.448098102213834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b122d9ecea165%3A0x7427f5eb74568cae!2sArizona%20Capitol%20Museum!5e0!3m2!1sen!2sus!4v1647905690217!5m2!1sen!2sus",
+        "description": "The Arizona State Capitol in Phoenix, Arizona, United States, was the last home for Arizona's Territorial government, until Arizona became a state in 1912. Initially, all three branches of the new state government occupied the four floors of the statehouse.",
+        "image": "images/capitol.jpeg",
+        "id": "6"
+    }
+]
